@@ -1,3 +1,4 @@
+//Solution doesn't work yet
 object Solution extends App {
   import Math.{ pow => exp }
   def fac(n:Int):Double = (1 to n).product
